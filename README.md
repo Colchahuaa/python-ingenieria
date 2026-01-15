@@ -1,18 +1,4 @@
 
-## 📁 Estructura del proyecto
-balance-mezcla/
-│
-├── README.md
-│
-├── src/ 
-│   └── balances.py
-│
-├── notebooks/
-│   └── balance_mezcla.ipynb
-│
-└── docs/
-    └── modelo.md
-
 
 # Balance de masa en un sistema de mezcla
 
