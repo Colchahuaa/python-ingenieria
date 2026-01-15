@@ -4,7 +4,7 @@ balance-mezcla/
 │
 ├── README.md
 │
-├── src/
+├── src/ 
 │   └── balances.py
 │
 ├── notebooks/
