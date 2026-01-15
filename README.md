@@ -1,5 +1,18 @@
 
 
+## Esquema del sistema de mezcla
+
+           F1 , x1
+            ─────▶
+                     ┌──────────────────┐
+                     │                  │
+                     │   MEZCLADOR       │──────▶  Fout , xout
+                     │   ideal           │
+                     │                  │
+            ─────▶   └──────────────────┘
+           F2 , x2
+
+           
 # Balance de masa en un sistema de mezcla
 
 Este proyecto modela una operación unitaria de mezcla de dos corrientes con diferente concentración de soluto utilizando balances de masa y Python.
@@ -8,7 +21,6 @@ El objetivo es calcular el caudal total, el flujo de soluto y la fracción mási
 
 Este tipo de problema es común en procesos de formulación, preparación de soluciones, dilución de productos y control de calidad en plantas químicas.
 
----
 
 ## 🧪 Enunciado del problema 1
 
