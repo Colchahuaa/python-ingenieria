@@ -1,3 +1,19 @@
+
+## 📁 Estructura del proyecto
+balance-mezcla/
+│
+├── README.md
+│
+├── src/
+│   └── balances.py
+│
+├── notebooks/
+│   └── balance_mezcla.ipynb
+│
+└── docs/
+    └── modelo.md
+
+
 # Balance de masa en un sistema de mezcla
 
 Este proyecto modela una operación unitaria de mezcla de dos corrientes con diferente concentración de soluto utilizando balances de masa y Python.
@@ -45,8 +61,20 @@ Donde:
 
 ---
 
-## 🧠 Implementación en Python
+# 🧠 Interpretación ingenieril
 
-El modelo se implementa en el archivo:
+El sistema produce una corriente final con una concentración de soluto del 15.6%.  
+Este tipo de cálculo es clave en procesos de formulación, preparación de soluciones químicas y control de calidad.
+
+---
+
+## 🛠️ Tecnologías
+- Python
+- Programación estructurada
+- Ingeniería de procesos
+
+---
+
+
 
 
