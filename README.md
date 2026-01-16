@@ -6,8 +6,8 @@
             ─────▶
                      ┌──────────────────┐
                      │                  │
-                     │   MEZCLADOR       │──────▶  Fout , xout
-                     │   ideal           │
+                     │   MEZCLADOR      │──────▶  Fout , xout
+                     │   ideal          │
                      │                  │
             ─────▶   └──────────────────┘
            F2 , x2
