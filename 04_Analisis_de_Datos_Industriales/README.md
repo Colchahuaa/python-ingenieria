@@ -14,9 +14,9 @@ Se desarrollan herramientas para limpieza de datos, cálculo de indicadores tér
 - Apoyar decisiones de mejora operacional
 
 ## Estructura
-data/ → Datos del proceso
-src/ → Módulos de análisis
-main.py → Ejecución principal
+data/ → Datos del proceso 
+src/ → Módulos de análisis 
+main.py → Ejecución principal 
 
 ## Herramientas
 - Python 3
