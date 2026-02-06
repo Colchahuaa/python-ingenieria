@@ -33,9 +33,9 @@ El análisis se basa en principios de ingeniería química aplicados a sistemas 
 Python se utiliza como herramienta de soporte ingenieril, priorizando claridad estructural, trazabilidad del modelo y escalabilidad hacia aplicaciones industriales más complejas (SPC, modelos predictivos, dashboards operacionales).
 
 ## Estructura del proyecto
-1. data/      → Base de datos operacionales del proceso
-2. src/       → Módulos de limpieza, cálculo y análisis
-3. main.py    → Script de ejecución integral
+1.- data/      → Base de datos operacionales del proceso
+2.- src/       → Módulos de limpieza, cálculo y análisis
+3.- main.py    → Script de ejecución integral
 
 La arquitectura modular facilita la extensión hacia:
 
